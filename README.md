@@ -1,9 +1,4 @@
 
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en" data-color-mode="light" data-light-theme="light" data-dark-theme="dark">
   <head>
@@ -45,27 +40,27 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>infinite_stats/README.md at master · mak-insights/infinite_stats</title>
-    <meta name="description" content="About Statistical and Predictive Analysis . Contribute to mak-insights/infinite_stats development by creating an account on GitHub.">
+  <title>nomadinnovative/README.md at master · nomadinnovative/nomadinnovative</title>
+    <meta name="description" content="Research and Predictive Analytics. Contribute to nomadinnovative/nomadinnovative development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/64024110?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="mak-insights/infinite_stats" /><meta name="twitter:description" content="About Statistical and Predictive Analysis . Contribute to mak-insights/infinite_stats development by creating an account on GitHub." />
-    <meta property="og:image" content="https://avatars.githubusercontent.com/u/64024110?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="mak-insights/infinite_stats" /><meta property="og:url" content="https://github.com/mak-insights/infinite_stats" /><meta property="og:description" content="About Statistical and Predictive Analysis . Contribute to mak-insights/infinite_stats development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/64024110?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="nomadinnovative/nomadinnovative" /><meta name="twitter:description" content="Research and Predictive Analytics. Contribute to nomadinnovative/nomadinnovative development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/64024110?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="nomadinnovative/nomadinnovative" /><meta property="og:url" content="https://github.com/nomadinnovative/nomadinnovative" /><meta property="og:description" content="Research and Predictive Analytics. Contribute to nomadinnovative/nomadinnovative development by creating an account on GitHub." />
 
 
 
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/64024110/ws?session=eyJ2IjoiVjMiLCJ1Ijo2NDAyNDExMCwicyI6NjM5NjY2NzE1LCJjIjoxNDE3OTI2MzU2LCJ0IjoxNjExNjU2MTgyfQ==--d0016c94a78c52d30980b3b60b4d182199ff426240ec8d40934ee8c23bb8fc9f" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/64024110/ws?session=eyJ2IjoiVjMiLCJ1Ijo2NDAyNDExMCwicyI6NjM5NjY2NzE1LCJjIjozODM4MzcwMDY1LCJ0IjoxNjExNjU2MjE4fQ==--45c2b9c79e343b73561a077ab019b1b470c4525115f5a1abd68038d0a22efff2" data-refresh-url="/_alive">
     <link rel="shared-web-socket-src" href="/socket-worker-5029ae85.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="0775:0ABD:294B12:2E7F33:600FEBEA" data-pjax-transient="true" /><meta name="html-safe-nonce" content="116d0a43e6f6c13d3a606aa08ebeb5677461a10f8fe13396d81a37457d3f9ae8" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWstaW5zaWdodHMvaW5maW5pdGVfc3RhdHMiLCJyZXF1ZXN0X2lkIjoiMDc3NTowQUJEOjI5NEIxMjoyRTdGMzM6NjAwRkVCRUEiLCJ2aXNpdG9yX2lkIjoiNzM3NDA3MTY3OTAwOTIxNDg1OSIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGhlYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="afb2c62991c958f0429331c4ed836eac9c0b71711437c31d9c31ffa6c3c5fbb7" data-pjax-transient="true" />
+  <meta name="request-id" content="0775:0ABD:29533A:2E8864:600FEC13" data-pjax-transient="true" /><meta name="html-safe-nonce" content="116d0a43e6f6c13d3a606aa08ebeb5677461a10f8fe13396d81a37457d3f9ae8" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYWstaW5zaWdodHMvbm9tYWRpbm5vdmF0aXZlIiwicmVxdWVzdF9pZCI6IjA3NzU6MEFCRDoyOTUzM0E6MkU4ODY0OjYwMEZFQzEzIiwidmlzaXRvcl9pZCI6IjczNzQwNzE2NzkwMDkyMTQ4NTkiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoZWFzdC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="bfda9457c3d7a303d289328b575737e65d80d1d4a9376a68f06c302eda03f8fb" data-pjax-transient="true" />
 
-    <meta name="hovercard-subject-tag" content="repository:258979631" data-pjax-transient>
+    <meta name="hovercard-subject-tag" content="repository:290234186" data-pjax-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
@@ -79,7 +74,7 @@
   <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-actor-id" content="64024110" /><meta name="octolytics-actor-login" content="mak-insights" /><meta name="octolytics-actor-hash" content="08718806345278b102a2b4e8cec14aedd2d5c9a76d7fa341b29513199bb8f3bf" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-actor-id" content="64024110" /><meta name="octolytics-actor-login" content="nomadinnovative" /><meta name="octolytics-actor-hash" content="08718806345278b102a2b4e8cec14aedd2d5c9a76d7fa341b29513199bb8f3bf" />
 
   <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
@@ -97,27 +92,27 @@
   
 
       <meta name="hostname" content="github.com">
-    <meta name="user-login" content="mak-insights">
+    <meta name="user-login" content="nomadinnovative">
 
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NTEwNjc2M2YzYWQ1NTI0MDhlNjA2MjFjNThhNTA0ODhjOGU3N2IwOTJmYzYwZDQ2NDBmMDUxMThhNGM4YmRiM3x7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjI4LjkuMTc3IiwicmVxdWVzdF9pZCI6IjA3NzU6MEFCRDoyOTRCMTI6MkU3RjMzOjYwMEZFQkVBIiwidGltZXN0YW1wIjoxNjExNjU2MTgyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="NDBmOWE2NDA2N2U3YzRmM2U3NzY0OTVlNTgxNWJlN2M0OTAyZDhkNzQxYzg3ZGNkNDJhNTM0OGI2OGJmN2Q1ZHx7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjI4LjkuMTc3IiwicmVxdWVzdF9pZCI6IjA3NzU6MEFCRDoyOTUzM0E6MkU4ODY0OjYwMEZFQzEzIiwidGltZXN0YW1wIjoxNjExNjU2MjE4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,ACTIONS_SHORT_SHA_WARNING,TASK_LIST_AUTOCOMPLETE,MULTI_WORD_SUGGESTER">
 
   <meta http-equiv="x-pjax-version" content="c7df87ab409ba9c4de45993d3aae8e06c3ff88d02042db3b9f6dd9015418c17a">
   
 
-        <link href="https://github.com/mak-insights/infinite_stats/commits/master.atom" rel="alternate" title="Recent Commits to infinite_stats:master" type="application/atom+xml">
+        <link href="https://github.com/nomadinnovative/nomadinnovative/commits/master.atom" rel="alternate" title="Recent Commits to nomadinnovative:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/mak-insights/infinite_stats git https://github.com/mak-insights/infinite_stats.git">
+  <meta name="go-import" content="github.com/nomadinnovative/nomadinnovative git https://github.com/nomadinnovative/nomadinnovative.git">
 
-  <meta name="octolytics-dimension-user_id" content="64024110" /><meta name="octolytics-dimension-user_login" content="mak-insights" /><meta name="octolytics-dimension-repository_id" content="258979631" /><meta name="octolytics-dimension-repository_nwo" content="mak-insights/infinite_stats" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="258979631" /><meta name="octolytics-dimension-repository_network_root_nwo" content="mak-insights/infinite_stats" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="64024110" /><meta name="octolytics-dimension-user_login" content="nomadinnovative" /><meta name="octolytics-dimension-repository_id" content="290234186" /><meta name="octolytics-dimension-repository_nwo" content="nomadinnovative/nomadinnovative" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="290234186" /><meta name="octolytics-dimension-repository_network_root_nwo" content="nomadinnovative/nomadinnovative" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
 
 
 
-    <link rel="canonical" href="https://github.com/mak-insights/infinite_stats/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/nomadinnovative/nomadinnovative/blob/master/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -175,7 +170,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="258979631" data-scoped-search-url="/mak-insights/infinite_stats/search" data-owner-scoped-search-url="/users/mak-insights/search" data-unscoped-search-url="/search" action="/mak-insights/infinite_stats/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="290234186" data-scoped-search-url="/nomadinnovative/nomadinnovative/search" data-owner-scoped-search-url="/users/nomadinnovative/search" data-unscoped-search-url="/search" action="/nomadinnovative/nomadinnovative/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -193,7 +188,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="vwC854dp7a2eYNh6XObyYfq6o0X8qtqSZ8xjf/aj/ePZGm+1O4yDB4ZQs6+WkCHNrDRCVJvkHKtD2bxkmwkfbA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="QQA78teS0OzQe1qnE9oMtCZUpY7yTQTJWzarb567b2cnGuiga3e+RshLMXLZrN8YcNpEn5UDwvB/I3R08xGN6A==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -378,11 +373,11 @@
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15" href="/settings/profile">
       Settings
 </a>
-    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15" href="/mak-insights">
-      <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/64024110?s=40&amp;v=4" width="20" height="20" alt="@mak-insights" />
-      mak-insights
+    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15" href="/nomadinnovative">
+      <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/64024110?s=40&amp;v=4" width="20" height="20" alt="@nomadinnovative" />
+      nomadinnovative
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rHzD0PAScKBvzJSF91UxQeUKXIxMWip0gG1YSN7Fp9zn6xq5MfoGBgJTlWoERYpJ3Bh2L3MMwv2FxVhxOslLzg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BPhknmeX/27vr7peytOOM9pxyroEZKwHftv+UlarzY1Pb733pn+JyIIwu7E5wzU742PgGTsyRI57c/5rsqchnw==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -402,7 +397,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjQwMjQxMTAiLCJ0IjoxNjExNjU2MTgyfQ==--1e5ff88d7f1d07602577dce0b8690bce5b9dce37b7852de8c9fc683fe22f9487">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjQwMjQxMTAiLCJ0IjoxNjExNjU2MjE4fQ==--852e1d0a8244ac6e530f620a12b03e68075bbfc0ed8a7bfca708d01a71da129c">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -446,9 +441,9 @@
 
   <div role="none" class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="mak-insights/infinite_stats">This repository</span>
+    <span title="nomadinnovative/nomadinnovative">This repository</span>
   </div>
-    <a role="menuitem" class="dropdown-item" href="/mak-insights/infinite_stats/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
+    <a role="menuitem" class="dropdown-item" href="/nomadinnovative/nomadinnovative/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
       New issue
     </a>
 
@@ -460,13 +455,13 @@
 
     <div class="Header-item position-relative mr-0 d-none d-md-flex">
         
-  <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/mak-insights/feature_preview/indicator_check">
+  <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/nomadinnovative/feature_preview/indicator_check">
 
   <summary class="Header-link"
     aria-label="View profile and more"
     data-ga-click="Header, show menu, icon:avatar">
     <img
-  alt="@mak-insights"
+  alt="@nomadinnovative"
   width="20"
   height="20"
   src="https://avatars.githubusercontent.com/u/64024110?s=60&amp;v=4"
@@ -559,11 +554,11 @@
             <h1 class=" d-flex flex-wrap flex-items-center break-word f3 text-normal">
     <svg class="octicon octicon-repo text-gray mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/mak-insights/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mak-insights">mak-insights</a>
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/nomadinnovative/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/nomadinnovative">nomadinnovative</a>
     </span>
     <span class="mx-1 flex-self-stretch color-text-secondary">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#js-repo-pjax-container" class="" href="/mak-insights/infinite_stats">infinite_stats</a>
+    <a data-pjax="#js-repo-pjax-container" class="" href="/nomadinnovative/nomadinnovative">nomadinnovative</a>
   </strong>
   
 </h1>
@@ -581,7 +576,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:258979631,&quot;originating_url&quot;:&quot;https://github.com/mak-insights/infinite_stats/blob/master/README.md&quot;,&quot;user_id&quot;:64024110}}" data-hydro-click-hmac="b5befedcab293f85f4aaa662f9194bda5c528004a534457d5d9853e9f363cc87" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:290234186,&quot;originating_url&quot;:&quot;https://github.com/nomadinnovative/nomadinnovative/blob/master/README.md&quot;,&quot;user_id&quot;:64024110}}" data-hydro-click-hmac="e9e7e1cd14ba3e306f1580819617fac4557cceb39de96cccb47327caef87f47c" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               
@@ -625,9 +620,9 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="haR0qi6PbrrORsHZN/sRsyxCKuCBRCn8PE8OW8CH8pg4jgpyjfPmwu0QTQi2+4AYNfB0ZCd3InGXvoNu1s/25Q==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Xd/0U9jHcTHM2Y7462IqAn6WcfF5GNc2e+kX7Rk8V5ng9YqLe7v5Se+PAilqYrupZyQvdd8r3LvQGJrYD3RT5A==" />
 
-                <input type="hidden" name="repository_id" value="258979631">
+                <input type="hidden" name="repository_id" value="290234186">
 
                 <button
                   type="submit"
@@ -727,9 +722,9 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YAnOHSbKBwU0vV+L/vr5ybLSTv+6N3YdWzS35AHY0vDdI7DFhbaPfRfr01p/+mhiq2AQexwEfZDwxTrRF5DWjQ==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Q4Ju85LJFfVueB897Nc9TevyfBPIc0jZrDpJqmpHwwb+qBArMbWdjU0uk+xt16zm8kAil25AQ1QHy8SffA/Hew==" />
 
-              <input type="hidden" name="repository_id" value="258979631">
+              <input type="hidden" name="repository_id" value="290234186">
 
               <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                 <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -851,7 +846,7 @@
         <div class="notifications-component-dialog-overlay"></div>
       </details>
         <a class="social-count"
-          href="/mak-insights/infinite_stats/watchers"
+          href="/nomadinnovative/nomadinnovative/watchers"
           aria-label="1 user is watching this repository"
           data-target="notifications-list-subscription-form.socialCount"
         >
@@ -864,22 +859,22 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/mak-insights/infinite_stats/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iaawzOKXIeV50nC8YRr7EYApDFE41LcHBLlQuc0rQ6XyHIVZX1Q9WIZ6L11bO8JSc/ZJS1OrLI6RFYgZMVwzwA==" />
+    <form class="starred js-social-form" action="/nomadinnovative/nomadinnovative/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="+gHPYl4LjdA1rixNObfm69g4UvgPUNcc+fliwAqqym9aJXF0Yw3CFEBhqmzUkWxtGHgn5Nxcwx/lVbjzewVzKg==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar mak-insights/infinite_stats" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:258979631,&quot;originating_url&quot;:&quot;https://github.com/mak-insights/infinite_stats/blob/master/README.md&quot;,&quot;user_id&quot;:64024110}}" data-hydro-click-hmac="151e2c45d211516f3346ddcf6d9cf77c673224e5dc7278edaedf221fd640a4f7" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar nomadinnovative/nomadinnovative" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:290234186,&quot;originating_url&quot;:&quot;https://github.com/nomadinnovative/nomadinnovative/blob/master/README.md&quot;,&quot;user_id&quot;:64024110}}" data-hydro-click-hmac="9097ec83699fc4ceecefa34d74164d2235b9ca69eec1a01198f1aa4c2a42d4b8" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         <span>
           Unstar
-</span></button>        <a class="social-count js-social-count" href="/mak-insights/infinite_stats/stargazers"
+</span></button>        <a class="social-count js-social-count" href="/nomadinnovative/nomadinnovative/stargazers"
            aria-label="0 users starred this repository">
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/mak-insights/infinite_stats/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Bnx7B7byvEohrmYy2a9KJoB/tVxS5B+GEBOZxZYLDT3Z1ave6NsOeVTwagiiRvpY0wsXqKmLyKrwSowO4ge/rA==" />
+    <form class="unstarred js-social-form" action="/nomadinnovative/nomadinnovative/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BVeXlsBWO6+q3pFdcbaDugAAs/J1MtiCo5JwjaBXi7AOrfGx/vBlzahybkyzD3TKjaQdkB+qfw85lZOdvKfrAQ==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star mak-insights/infinite_stats" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:258979631,&quot;originating_url&quot;:&quot;https://github.com/mak-insights/infinite_stats/blob/master/README.md&quot;,&quot;user_id&quot;:64024110}}" data-hydro-click-hmac="f0c80c166c7de220f41c32a30f769369479a49427173bac1652225f6ef5243dc" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star nomadinnovative/nomadinnovative" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:290234186,&quot;originating_url&quot;:&quot;https://github.com/nomadinnovative/nomadinnovative/blob/master/README.md&quot;,&quot;user_id&quot;:64024110}}" data-hydro-click-hmac="8cafb2bfd13e9d7636520bd67a3024b1e91682146173a555c5c00acfb7e98223" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         <span>
           Star
-</span></button>        <a class="social-count js-social-count" href="/mak-insights/infinite_stats/stargazers"
+</span></button>        <a class="social-count js-social-count" href="/nomadinnovative/nomadinnovative/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
@@ -892,7 +887,7 @@
             <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
             Fork
 </span>
-      <a href="/mak-insights/infinite_stats/network/members" class="social-count"
+      <a href="/nomadinnovative/nomadinnovative/network/members" class="social-count"
          aria-label="0 users forked this repository">
         0
       </a>
@@ -904,7 +899,7 @@
 <nav aria-label="Repository" data-pjax="#js-repo-pjax-container" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5 bg-gray-light">
   <ul class="UnderlineNav-body list-style-none ">
           <li class="d-flex">
-        <a class="js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i0code-tab" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /mak-insights/infinite_stats" href="/mak-insights/infinite_stats">
+        <a class="js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i0code-tab" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /nomadinnovative/nomadinnovative" href="/nomadinnovative/nomadinnovative">
               <svg class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path></svg>
             <span data-content="Code">Code</span>
               <span title="Not available" class="Counter "></span>
@@ -912,7 +907,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i1issues-tab" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-selected-links="repo_issues repo_labels repo_milestones /mak-insights/infinite_stats/issues" href="/mak-insights/infinite_stats/issues">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i1issues-tab" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-selected-links="repo_issues repo_labels repo_milestones /nomadinnovative/nomadinnovative/issues" href="/nomadinnovative/nomadinnovative/issues">
               <svg class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path></svg>
             <span data-content="Issues">Issues</span>
               <span title="0" hidden="hidden" class="Counter ">0</span>
@@ -920,7 +915,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i2pull-requests-tab" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-selected-links="repo_pulls checks /mak-insights/infinite_stats/pulls" href="/mak-insights/infinite_stats/pulls">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i2pull-requests-tab" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-selected-links="repo_pulls checks /nomadinnovative/nomadinnovative/pulls" href="/nomadinnovative/nomadinnovative/pulls">
               <svg class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path></svg>
             <span data-content="Pull requests">Pull requests</span>
               <span title="0" hidden="hidden" class="Counter ">0</span>
@@ -928,7 +923,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i3actions-tab" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-selected-links="repo_actions /mak-insights/infinite_stats/actions" href="/mak-insights/infinite_stats/actions">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i3actions-tab" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-selected-links="repo_actions /nomadinnovative/nomadinnovative/actions" href="/nomadinnovative/nomadinnovative/actions">
               <svg class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path></svg>
             <span data-content="Actions">Actions</span>
               <span title="Not available" class="Counter "></span>
@@ -936,7 +931,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i4projects-tab" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-selected-links="repo_projects new_repo_project repo_project /mak-insights/infinite_stats/projects" href="/mak-insights/infinite_stats/projects">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i4projects-tab" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-selected-links="repo_projects new_repo_project repo_project /nomadinnovative/nomadinnovative/projects" href="/nomadinnovative/nomadinnovative/projects">
               <svg class="octicon octicon-project UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
             <span data-content="Projects">Projects</span>
               <span title="0" hidden="hidden" class="Counter ">0</span>
@@ -944,7 +939,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i5wiki-tab" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-selected-links="repo_wiki /mak-insights/infinite_stats/wiki" href="/mak-insights/infinite_stats/wiki">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i5wiki-tab" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-selected-links="repo_wiki /nomadinnovative/nomadinnovative/wiki" href="/nomadinnovative/nomadinnovative/wiki">
               <svg class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path></svg>
             <span data-content="Wiki">Wiki</span>
               <span title="Not available" class="Counter "></span>
@@ -952,15 +947,15 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i6security-tab" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-selected-links="security overview alerts policy token_scanning code_scanning /mak-insights/infinite_stats/security" href="/mak-insights/infinite_stats/security">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i6security-tab" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-selected-links="security overview alerts policy token_scanning code_scanning /nomadinnovative/nomadinnovative/security" href="/nomadinnovative/nomadinnovative/security">
               <svg class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path></svg>
             <span data-content="Security">Security</span>
-              <include-fragment src="/mak-insights/infinite_stats/security/overall-count" accept="text/fragment+html"></include-fragment>
+              <include-fragment src="/nomadinnovative/nomadinnovative/security/overall-count" accept="text/fragment+html"></include-fragment>
 </a>
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i7insights-tab" data-ga-click="Repository, Navigation click, Insights tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /mak-insights/infinite_stats/pulse" href="/mak-insights/infinite_stats/pulse">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i7insights-tab" data-ga-click="Repository, Navigation click, Insights tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /nomadinnovative/nomadinnovative/pulse" href="/nomadinnovative/nomadinnovative/pulse">
               <svg class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path></svg>
             <span data-content="Insights">Insights</span>
               <span title="Not available" class="Counter "></span>
@@ -968,7 +963,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i8settings-tab" data-ga-click="Repository, Navigation click, Settings tab" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor secrets_settings key_links_settings repo_actions_settings notifications repository_environments /mak-insights/infinite_stats/settings" href="/mak-insights/infinite_stats/settings">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i8settings-tab" data-ga-click="Repository, Navigation click, Settings tab" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor secrets_settings key_links_settings repo_actions_settings notifications repository_environments /nomadinnovative/nomadinnovative/settings" href="/nomadinnovative/nomadinnovative/settings">
               <svg class="octicon octicon-gear UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.429 1.525a6.593 6.593 0 011.142 0c.036.003.108.036.137.146l.289 1.105c.147.56.55.967.997 1.189.174.086.341.183.501.29.417.278.97.423 1.53.27l1.102-.303c.11-.03.175.016.195.046.219.31.41.641.573.989.014.031.022.11-.059.19l-.815.806c-.411.406-.562.957-.53 1.456a4.588 4.588 0 010 .582c-.032.499.119 1.05.53 1.456l.815.806c.08.08.073.159.059.19a6.494 6.494 0 01-.573.99c-.02.029-.086.074-.195.045l-1.103-.303c-.559-.153-1.112-.008-1.529.27-.16.107-.327.204-.5.29-.449.222-.851.628-.998 1.189l-.289 1.105c-.029.11-.101.143-.137.146a6.613 6.613 0 01-1.142 0c-.036-.003-.108-.037-.137-.146l-.289-1.105c-.147-.56-.55-.967-.997-1.189a4.502 4.502 0 01-.501-.29c-.417-.278-.97-.423-1.53-.27l-1.102.303c-.11.03-.175-.016-.195-.046a6.492 6.492 0 01-.573-.989c-.014-.031-.022-.11.059-.19l.815-.806c.411-.406.562-.957.53-1.456a4.587 4.587 0 010-.582c.032-.499-.119-1.05-.53-1.456l-.815-.806c-.08-.08-.073-.159-.059-.19a6.44 6.44 0 01.573-.99c.02-.029.086-.075.195-.045l1.103.303c.559.153 1.112.008 1.529-.27.16-.107.327-.204.5-.29.449-.222.851-.628.998-1.189l.289-1.105c.029-.11.101-.143.137-.146zM8 0c-.236 0-.47.01-.701.03-.743.065-1.29.615-1.458 1.261l-.29 1.106c-.017.066-.078.158-.211.224a5.994 5.994 0 00-.668.386c-.123.082-.233.09-.3.071L3.27 2.776c-.644-.177-1.392.02-1.82.63a7.977 7.977 0 00-.704 1.217c-.315.675-.111 1.422.363 1.891l.815.806c.05.048.098.147.088.294a6.084 6.084 0 000 .772c.01.147-.038.246-.088.294l-.815.806c-.474.469-.678 1.216-.363 1.891.2.428.436.835.704 1.218.428.609 1.176.806 1.82.63l1.103-.303c.066-.019.176-.011.299.071.213.143.436.272.668.386.133.066.194.158.212.224l.289 1.106c.169.646.715 1.196 1.458 1.26a8.094 8.094 0 001.402 0c.743-.064 1.29-.614 1.458-1.26l.29-1.106c.017-.066.078-.158.211-.224a5.98 5.98 0 00.668-.386c.123-.082.233-.09.3-.071l1.102.302c.644.177 1.392-.02 1.82-.63.268-.382.505-.789.704-1.217.315-.675.111-1.422-.364-1.891l-.814-.806c-.05-.048-.098-.147-.088-.294a6.1 6.1 0 000-.772c-.01-.147.039-.246.088-.294l.814-.806c.475-.469.679-1.216.364-1.891a7.992 7.992 0 00-.704-1.218c-.428-.609-1.176-.806-1.82-.63l-1.103.303c-.066.019-.176.011-.299-.071a5.991 5.991 0 00-.668-.386c-.133-.066-.194-.158-.212-.224L10.16 1.29C9.99.645 9.444.095 8.701.031A8.094 8.094 0 008 0zm1.5 8a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM11 8a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
             <span data-content="Settings">Settings</span>
               <span title="Not available" class="Counter "></span>
@@ -988,39 +983,39 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /mak-insights/infinite_stats" href="/mak-insights/infinite_stats">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /nomadinnovative/nomadinnovative" href="/nomadinnovative/nomadinnovative">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /mak-insights/infinite_stats/issues" href="/mak-insights/infinite_stats/issues">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /nomadinnovative/nomadinnovative/issues" href="/nomadinnovative/nomadinnovative/issues">
                     Issues
 </a>                </li>
                 <li data-menu-item="i2pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /mak-insights/infinite_stats/pulls" href="/mak-insights/infinite_stats/pulls">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /nomadinnovative/nomadinnovative/pulls" href="/nomadinnovative/nomadinnovative/pulls">
                     Pull requests
 </a>                </li>
                 <li data-menu-item="i3actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /mak-insights/infinite_stats/actions" href="/mak-insights/infinite_stats/actions">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /nomadinnovative/nomadinnovative/actions" href="/nomadinnovative/nomadinnovative/actions">
                     Actions
 </a>                </li>
                 <li data-menu-item="i4projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /mak-insights/infinite_stats/projects" href="/mak-insights/infinite_stats/projects">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /nomadinnovative/nomadinnovative/projects" href="/nomadinnovative/nomadinnovative/projects">
                     Projects
 </a>                </li>
                 <li data-menu-item="i5wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /mak-insights/infinite_stats/wiki" href="/mak-insights/infinite_stats/wiki">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /nomadinnovative/nomadinnovative/wiki" href="/nomadinnovative/nomadinnovative/wiki">
                     Wiki
 </a>                </li>
                 <li data-menu-item="i6security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /mak-insights/infinite_stats/security" href="/mak-insights/infinite_stats/security">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /nomadinnovative/nomadinnovative/security" href="/nomadinnovative/nomadinnovative/security">
                     Security
 </a>                </li>
                 <li data-menu-item="i7insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /mak-insights/infinite_stats/pulse" href="/mak-insights/infinite_stats/pulse">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /nomadinnovative/nomadinnovative/pulse" href="/nomadinnovative/nomadinnovative/pulse">
                     Insights
 </a>                </li>
                 <li data-menu-item="i8settings-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /mak-insights/infinite_stats/settings" href="/mak-insights/infinite_stats/settings">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /nomadinnovative/nomadinnovative/settings" href="/nomadinnovative/nomadinnovative/settings">
                     Settings
 </a>                </li>
             </ul>
@@ -1040,9 +1035,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mak-insights/infinite_stats/blob/71a6ce45ccbe38a3d5a02b12320bd2747504ad9d/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/nomadinnovative/nomadinnovative/blob/3282380ab085c7981c85330a2354c9134bf2cf70/README.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:fd4e73d035ec0e3b81a7bd7f25aa2b2b7dcfbc43ab48a933fec197ae8005ac3c -->
+    <!-- blob contrib key: blob_contributors:v22:52ed5ec2e69adc8036e592280da10631ea4eb88db27ec58c3457e7dff7807f8d -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1056,7 +1051,7 @@
       <span class="dropdown-caret"></span>
     </summary>
 
-    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/mak-insights/infinite_stats/refs/master/README.md?source_action=show&amp;source_controller=blob" preload>
+    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/nomadinnovative/nomadinnovative/refs/master/README.md?source_action=show&amp;source_controller=blob" preload>
       <div class="SelectMenu-modal">
         <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
           <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 24 24" version="1.1" width="32" aria-hidden="true"><path d="M7.75 11c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5C9 11.56 8.44 11 7.75 11zm1.27 4.5a.469.469 0 01.48-.5h5a.47.47 0 01.48.5c-.116 1.316-.759 2.5-2.98 2.5s-2.864-1.184-2.98-2.5zm7.23-4.5c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5c0-.69-.56-1.25-1.25-1.25z"></path><path fill-rule="evenodd" d="M21.255 3.82a1.725 1.725 0 00-2.141-1.195c-.557.16-1.406.44-2.264.866-.78.386-1.647.93-2.293 1.677A18.442 18.442 0 0012 5c-.93 0-1.784.059-2.569.17-.645-.74-1.505-1.28-2.28-1.664a13.876 13.876 0 00-2.265-.866 1.725 1.725 0 00-2.141 1.196 23.645 23.645 0 00-.69 3.292c-.125.97-.191 2.07-.066 3.112C1.254 11.882 1 13.734 1 15.527 1 19.915 3.13 23 12 23c8.87 0 11-3.053 11-7.473 0-1.794-.255-3.647-.99-5.29.127-1.046.06-2.15-.066-3.125a23.652 23.652 0 00-.689-3.292zM20.5 14c.5 3.5-1.5 6.5-8.5 6.5s-9-3-8.5-6.5c.583-4 3-6 8.5-6s7.928 2 8.5 6z"></path></svg>
@@ -1068,9 +1063,9 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/mak-insights/infinite_stats"><span>infinite_stats</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/nomadinnovative/nomadinnovative"><span>nomadinnovative</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
       </h2>
-      <a href="/mak-insights/infinite_stats/find/master"
+      <a href="/nomadinnovative/nomadinnovative/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
             data-pjax
             data-hotkey="t">
@@ -1083,7 +1078,7 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:258979631,&quot;originating_url&quot;:&quot;https://github.com/mak-insights/infinite_stats/blob/master/README.md&quot;,&quot;user_id&quot;:64024110}}" data-hydro-click-hmac="e9d5825745589ad34b68382dbe568d827611e02cbec82406774038e81b5088b9" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/mak-insights/infinite_stats/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:290234186,&quot;originating_url&quot;:&quot;https://github.com/nomadinnovative/nomadinnovative/blob/master/README.md&quot;,&quot;user_id&quot;:64024110}}" data-hydro-click-hmac="89b4d797ab371373c54b23efc80eedd37d1cf8109f9ae418641349e0b8e4acef" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/nomadinnovative/nomadinnovative/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small text-gray" aria-hidden="true">T</span>
 </a>            </li>
@@ -1107,7 +1102,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/mak-insights/infinite_stats/contributors/master/README.md" class="commit-loader">
+      <include-fragment src="/nomadinnovative/nomadinnovative/contributors/master/README.md" class="commit-loader">
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1130,34 +1125,34 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      8 lines (3 sloc)
+      35 lines (28 sloc)
       <span class="file-info-divider"></span>
-    240 Bytes
+    1018 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a href="/mak-insights/infinite_stats/raw/master/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/mak-insights/infinite_stats/blame/master/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/nomadinnovative/nomadinnovative/raw/master/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/nomadinnovative/nomadinnovative/blame/master/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
     </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/mak-insights/infinite_stats?branch=master&amp;filepath=README.md"
+             href="x-github-client://openRepo/https://github.com/nomadinnovative/nomadinnovative?branch=master&amp;filepath=README.md"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/mak-insights/infinite_stats/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1q8C3eiCFCtXrPr/6hoRrcHL1PE4ohoKqKux/dNdOI1fY67LMwGoJzWT5ifn2TeuixZ0n7tVWEOBzKXeOon6Gg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/nomadinnovative/nomadinnovative/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="o/TuWMo1Rvm0Z/rCmO0R0ZLalIdgC5LmGffo+WAe8oqzafCp4IQB3smA83mXuYmgCsnhcF/eYs58Sp4H58mHdA==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/mak-insights/infinite_stats/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="P0kOSoKU5lIpRHOk8ofKyWFEZGDDt0H50VFj/9W4onYcCkT3Ke7ZHx0zry0GxUiTSdM8isuM4uk8IhYIz2YWpg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/nomadinnovative/nomadinnovative/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cGRgaP3O9z4dsGKiDkq22CAUoeNy2jR1G5oXskKUfInBQ18T9kEeYHHxMQVy7yBEr0ZH+lzhw8tVTLJmuYM96w==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1171,8 +1166,33 @@
     <article class="markdown-body entry-content container-lg" itemprop="text"><h3><a id="user-content-hi-there-im-aurangzeb-khan---aka-khan-" class="anchor" aria-hidden="true" href="#hi-there-im-aurangzeb-khan---aka-khan-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi there, I'm Aurangzeb Khan - aka [Khan] <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
 <h2><a id="user-content-im-a-data-enthusiast-bankingfinance-professional-and-data-analyst-with-exposure-to-statistical-analysis-" class="anchor" aria-hidden="true" href="#im-a-data-enthusiast-bankingfinance-professional-and-data-analyst-with-exposure-to-statistical-analysis-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>I'm a Data Enthusiast, Banking/Finance Professional and Data Analyst with exposure to Statistical Analysis !!</h2>
 <ul>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> This repository is about Predictive Analytics using Python <g-emoji class="g-emoji" alias="grinning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f600.png">😀</g-emoji></li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m constantly learning everyday  <g-emoji class="g-emoji" alias="grinning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f600.png">😀</g-emoji></li>
+<li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking forward to work on Data Analysis Deployment POC using Python, Air Flow, Jupyter Hub</li>
+<li><g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png">🥅</g-emoji> 2020 Goals: Take my Predictive Analysis skills to next Level</li>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact: I love to swim for hours and hours on week ends</li>
+<li><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">🤔</g-emoji> I’m looking for help with Hadoop and Hive Installation...</li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Financial Sector Technology challenges ...</li>
 </ul>
+<br>
+<h3><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Languages and Tools:</h3>
+<h4><a id="user-content-sql" class="anchor" aria-hidden="true" href="#sql"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>SQL</h4>
+<h4><a id="user-content-hive-sql" class="anchor" aria-hidden="true" href="#hive-sql"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hive SQL</h4>
+<h4><a id="user-content-postgres" class="anchor" aria-hidden="true" href="#postgres"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Postgres</h4>
+<h4><a id="user-content-hadoop" class="anchor" aria-hidden="true" href="#hadoop"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hadoop</h4>
+<h4><a id="user-content-python-for-datastatistical-analysis" class="anchor" aria-hidden="true" href="#python-for-datastatistical-analysis"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Python for Data/Statistical Analysis</h4>
+<h4><a id="user-content-vs-code" class="anchor" aria-hidden="true" href="#vs-code"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>VS Code</h4>
+<h4><a id="user-content-jupyter" class="anchor" aria-hidden="true" href="#jupyter"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Jupyter</h4>
+<h4><a id="user-content-erwin" class="anchor" aria-hidden="true" href="#erwin"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Erwin</h4>
+<br>
+<br>
+-- <g-emoji class="g-emoji" alias="closed_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png">📕</g-emoji> Latest Blog Posts
+<br>
+
+-- [Data Analysis Case Studies](<a href="https://github.com/nomadinnovative/infinite_stats">https://github.com/nomadinnovative/infinite_stats</a>)
+
+<br>
+-- [LinkedIn]: <a href="https://www.linkedin.com/in/aurangzeb-khan-10531446/" rel="nofollow">https://www.linkedin.com/in/aurangzeb-khan-10531446/</a>
+
 </article>
   </div>
 
@@ -1269,4 +1289,3 @@
 
   </body>
 </html>
-
