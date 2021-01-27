@@ -44,17 +44,9 @@
         <button type="submit" class="btn" data-close-dialog>Go</button>
 </form>    </details-dialog>
   </details>
-
-
   </div>
 </div>
-
-    </main>
   </div>
-
-  </div>
-
-  
-  </body>
+ </body>
 </html>
 
