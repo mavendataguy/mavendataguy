@@ -41,12 +41,10 @@
     <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
       <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get">
         <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
-        <button type="submit" class="btn" data-close-dialog>Go</button>
-</form>    </details-dialog>
+        </form>    </details-dialog>
   </details>
   </div>
 </div>
-  </div>
  </body>
 </html>
 
