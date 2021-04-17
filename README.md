@@ -4,8 +4,7 @@
 
 - 🌱 I’m constantly learning everyday  😀
 - 👯 I’m looking forward to work on Data Analysis Deployment POC using Python, Air Flow, Jupyter Hub
-- 🥅 2021 Goals: Take my Predictive Analysis skills to next Level 
-- 🥅 2020 Goals: Take my Predictive Analysis skills to next Level 
+- 🥅 2021 Goals: Take my Predictive Analysis skills to next Level using PySpark on Databricks & Azure 
 - ⚡ Fun fact: I love to swim for hours and hours on week ends
 - 🤔 I’m looking for help with Hadoop and Hive Installation...
 - 💬 Ask me about Financial Sector Technology challenges ...
@@ -15,8 +14,8 @@
 ### Languages and Tools:
 
 #### SQL, Oracle SQL
+#### Spark, PySpark
 #### Hive SQL
-#### Hadoop
 #### Power BI
 #### Python for Data/Statistical Analysis
 #### VS Code
