@@ -3,23 +3,23 @@
 ## I'm a Data Enthusiast, Banking/Finance Professional and Data Analyst with exposure to Statistical Analysis !!
 
 - 🌱 I’m constantly learning everyday  😀
-- 👯 I’m looking forward to work on Data Analysis Deployment POC using Python, Air Flow, Jupyter Hub
-- 🥅 2021 Goals: Take my Predictive Analysis skills to next Level using PySpark on Databricks & Azure 
+- 👯 I’m looking forward to work on Data Science Projects to Predict Mental Health issues using Python & Azure
+- 👯 I’m looking forward to work on Data Analysis/Integrations projects using Python/PySpark, SQL, Azure, Azure DataLake Deployment
+- 🥅 2021 Goals: Take my Predictive Analysis skills to next Level using Python/PySpark using Azure 
 - ⚡ Fun fact: I love to swim for hours and hours on week ends
-- 🤔 I’m looking for help with Hadoop and Hive Installation...
+- 🤔 I’m looking for help with DevOps and Deployments ...
 - 💬 Ask me about Financial Sector Technology challenges ...
 
 <br />
 
 ### Languages and Tools:
 
-#### SQL, Oracle SQL
+#### SQL, Oracle SQL, Hive SQL
 #### Spark, PySpark
-#### Hive SQL
 #### Power BI
 #### Python for Data/Statistical Analysis
-#### VS Code
-#### Jupyter
+#### VS Code, Jupyter
+#### Azure SQL, Azure DataLake, Azure Data Factory, 
 #### Erwin
 <br />
 <br />
