@@ -18,7 +18,7 @@
 #### Spark, PySpark, VS Code, Jupyter
 #### Power BI
 #### Python for Data/Statistical Analysis
-#### Azure SQL, Azure DataLake, Azure Data Factory, 
+#### Azure SQL, Azure DataLake, Azure Data Factory
 #### Erwin
 <br />
 <br />
