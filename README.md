@@ -15,10 +15,9 @@
 ### Languages and Tools:
 
 #### SQL, Oracle SQL, Hive SQL
-#### Spark, PySpark
+#### Spark, PySpark, VS Code, Jupyter
 #### Power BI
 #### Python for Data/Statistical Analysis
-#### VS Code, Jupyter
 #### Azure SQL, Azure DataLake, Azure Data Factory, 
 #### Erwin
 <br />
