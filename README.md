@@ -5,7 +5,7 @@
 ### I extensively research on predicting Mental Health Issues using Statistical Models
 
 - 🌱 I’m constantly learning everyday  😀
-- 👯 I’m looking forward to work on Data Science Projects to Predict Mental Health issues using Python & Azure
+- 👯 I’m looking forward to work on Data Science Projects to Predict Mental Health issues using Python,Dash & Azure
 - 👯 I’m looking forward to work on Data Analysis/Integrations projects using Python/PySpark, SQL, Azure, Azure DataLake Deployment
 - 🥅 2021 Goals: Take my Predictive Analysis skills to next Level using Python/PySpark using Azure 
 - ⚡ Fun fact: I love to swim for hours and hours on week ends
