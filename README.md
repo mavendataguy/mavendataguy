@@ -18,7 +18,7 @@
 
 #### SQL, Oracle SQL, Hive SQL
 #### Spark, PySpark, VS Code, Jupyter
-#### Power BI
+#### Power BI, Python - Plotly, Dash
 #### Python for Data/Statistical Analysis
 #### Azure SQL, Azure DataLake, Azure Data Factory
 #### Erwin
