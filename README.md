@@ -2,7 +2,7 @@
 
 ### I'm a Data Enthusiast, Banking/Fintech Professional, I have extensive experience working with large datasets using Big Data and Quantitative/Statistical methods
 ### I have extensive experience detecting International Trade-based money laundering & related crimes using Technology 
-### I extensively research on predicting Mental Health Issues using Statistical Models
+### I am certified Azure Data Engineer by Microsoft [passed in Dec-2021]
 
 - 🌱 I’m constantly learning everyday  😀
 - 👯 I’m looking forward to work on Data Science Projects to Predict Mental Health issues using Python,Dash & Azure
@@ -16,11 +16,11 @@
 
 ### Languages and Tools:
 
-#### SQL, Oracle SQL, Hive SQL
-#### Spark, PySpark, VS Code, Jupyter
-#### Power BI, Python-Plotly, Dash
+#### SQL, Hive SQL
+#### Spark, PySpark, VS Code
+#### Power BI, Python-Plotly, 
 #### Python for Data/Statistical Analysis
-#### Azure SQL, Azure DataLake, Azure Data Factory
+#### Azure DataLake, Databricks, Azure Data Factory
 #### Erwin
 <br />
 -- 📕 Latest Blog Posts
