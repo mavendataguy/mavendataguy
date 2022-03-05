@@ -19,7 +19,7 @@
 #### SQL, Hive SQL
 #### Spark, PySpark, VS Code
 #### Power BI, Python-Plotly, 
-#### Python for Data/Statistical Analysis
+#### Python for Statistical Analysis, Time Series, Hypo. Testing, Regression
 #### Azure DataLake, Databricks, Azure Data Factory
 #### Erwin
 <br />
