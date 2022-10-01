@@ -6,10 +6,10 @@
 
 - 🌱 I’m constantly learning everyday  😀
 - 👯 I’m looking forward to work on Data Science Projects to Predict Mental Health issues using Python,Dash & Azure
-- 👯 I’m working on Data Analysis/Integrations projects using Python/PySpark, SQL, Azure, Azure DataLake Deployment
+- 👯 I’m working on Data Analysis/Integrations projects using Python/PySpark, SQL, Azure, Azure DataLake
 - 🥅 2021 Goals: Take my Predictive Analysis skills to next Level using Python/PySpark & Azure 
 - ⚡ Fun fact: I love to swim for hours and hours on week ends
-- 🤔 I’m looking for help with DevOps and Deployments ...
+- 🤔 I’m looking for help on Azure Functions at a Scale ...
 - 💬 Ask me about Financial Sector Technology challenges ...
 
 <br />
@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 #### SQL, Hive SQL
-#### Spark, PySpark, VS Code
+#### Spark, PySpark, Databricks
 #### Power BI, Python-Plotly, 
 #### Python for Statistical Analysis, Time Series, Hypo. Testing, Regression
 #### Azure DataLake, Databricks, Azure Data Factory
