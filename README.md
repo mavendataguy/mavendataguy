@@ -6,10 +6,10 @@
 ### I am a certified Databricks Data Engineer Associate [passed in Oct-2022]
 
 - 🌱 I’m constantly learning everyday  😀
-- 👯 I’m working on Data Analysis/Integrations projects using Python/PySpark, SQL, Azure,Databricks, Azure DataLake
+- 👯 I’m working on Data Analysis/Integrations projects using Python/PySpark, SQL, Azure DevOps, Databricks, Azure DataLake
 - 👯 I’m looking forward to work on ML Model development & Deployment using Databricks,Python & Azure
 - 🥅 2021 Goals: Take my Predictive Analysis skills to next Level using Python/PySpark & Azure 
-- ⚡ Fun fact: I love to swim for hours and hours on week ends
+- ⚡ Fun fact: I love to swim for hours and hours on week-ends
 - 🤔 I’m looking for help on Azure Functions at a Scale ...
 - 💬 Ask me about Financial Sector Technology challenges ...
 
@@ -17,11 +17,12 @@
 
 ### Languages and Tools:
 
-#### SQL, Hive SQL
+#### SQL, Spark-SQL, Hive SQL
 #### Spark, PySpark, Databricks
-#### Power BI, Python-Plotly, 
+#### Azure DevOps, CI-CD, Ansible, Bash Scripting
+#### Power BI, Python-Plotly
 #### Python for Statistical Analysis, Time Series, Hypo. Testing, Regression
-#### Azure DataLake, Databricks, Azure Data Factory
+#### Azure DataLake, Azure Data Factory
 #### Erwin
 <br />
 -- 📕 Latest Blog Posts
